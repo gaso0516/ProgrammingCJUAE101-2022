@@ -1,10 +1,10 @@
 ﻿  소스.cpp
-C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\Prob_1\Prob_1\소스.cpp(10,48): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\Prob_1\Prob_1\소스.cpp(10,48): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
-C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\Prob_1\Prob_1\소스.cpp(11,67): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\Prob_1\Prob_1\소스.cpp(11,67): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
-C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\Prob_1\Prob_1\소스.cpp(12,48): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\Prob_1\Prob_1\소스.cpp(12,48): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
-C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\Prob_1\Prob_1\소스.cpp(13,67): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\Prob_1\Prob_1\소스.cpp(13,67): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
-  Prob_1.vcxproj -> C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\Prob_1\x64\Debug\Prob_1.exe
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\2ndWeek\Prob_1\Prob_1\소스.cpp(10,42): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\2ndWeek\Prob_1\Prob_1\소스.cpp(10,42): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\2ndWeek\Prob_1\Prob_1\소스.cpp(11,66): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\2ndWeek\Prob_1\Prob_1\소스.cpp(11,66): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\2ndWeek\Prob_1\Prob_1\소스.cpp(12,42): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\2ndWeek\Prob_1\Prob_1\소스.cpp(12,42): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\2ndWeek\Prob_1\Prob_1\소스.cpp(13,66): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\2ndWeek\Prob_1\Prob_1\소스.cpp(13,66): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+  Prob_1.vcxproj -> C:\Users\User\Documents\GitHub\ProgrammingCJUAE101-2022\2ndWeek\Prob_1\x64\Debug\Prob_1.exe
