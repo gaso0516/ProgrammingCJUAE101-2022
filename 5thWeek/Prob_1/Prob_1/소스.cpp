@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	int i, j;
+	int i, j;                           
 	int num;
 	int count = 0;
 
@@ -19,7 +19,7 @@ int main(void)
 		}
 		if (i == j)
 		{
-			printf("%d", i);
+			printf("%5d", i);
 			count++;
 			if ((count % 5) == 0)
 			{
