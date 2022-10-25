@@ -1,10 +1,10 @@
 #include<stdio.h>
-int rec_func(int n); 
+int rec_func(int n);                 
 
 int main(void)
 {
 	int a = 0;
-	a = rec_func(10);
+	a = rec_func(10);                 
 	printf("%d\n", a);
 	return 0;
 }
