@@ -11,7 +11,7 @@ int main()
 
 	srand(time(NULL));
 	cpu = rand() % 100 + 1;
-	MAX_INPUT = rand() % 10;
+	MAX_INPUT = rand() % 7 + 3;
 
 	printf("Up & Down Game\n\n");
 	printf("%d chances in total\n", MAX_INPUT);
