@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\최기영\Documents\GitHub\8th Week\Project2\Project2\소스.cpp(12,22): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\최기영\Documents\GitHub\8th Week\Project2\Project2\소스.cpp(16,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\최기영\Documents\GitHub\8th Week\Project2\Project2\소스.cpp(20,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\최기영\Documents\GitHub\8th Week\Project2\Project2\소스.cpp(22,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project2.vcxproj -> C:\Users\최기영\Documents\GitHub\8th Week\Project2\x64\Debug\Project2.exe

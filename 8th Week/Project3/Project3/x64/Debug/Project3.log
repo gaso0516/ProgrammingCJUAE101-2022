@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\최기영\Documents\GitHub\8th Week\Project3\Project3\소스.cpp(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\최기영\Documents\GitHub\8th Week\Project3\Project3\소스.cpp(30,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\최기영\Documents\GitHub\8th Week\Project3\Project3\소스.cpp(31,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\최기영\Documents\GitHub\8th Week\Project3\Project3\소스.cpp(32,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project3.vcxproj -> C:\Users\최기영\Documents\GitHub\8th Week\Project3\x64\Debug\Project3.exe
